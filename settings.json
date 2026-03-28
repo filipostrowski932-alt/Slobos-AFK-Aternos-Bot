@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -687,
+    "y": 110,
+    "z": -755
   },
   "utils": {
     "auto-auth": {
