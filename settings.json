@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StwenthhSMP.aternos.me",
+    "ip": "StwenthhSMP.aternos.me:48143",
     "port": 48143,
     "version": "",
     "try-creative": false
